@@ -1,19 +1,19 @@
 {
-    "name": "paquettg/php-html-parser",
+    "name": "xardas-eu/php-html-parser",
     "type": "library",
     "description": "An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.",
     "keywords": ["html", "dom", "parser"],
-    "homepage": "https://github.com/paquettg/php-html-parser",
+    "homepage": "https://github.com/xardas-eu/php-html-parser",
     "license": "MIT",
     "authors": [
         {
-            "name": "Gilles Paquette",
-            "email": "paquettg@gmail.com",
-            "homepage": "http://gillespaquette.ca"
+            "name": "xardas",
+            "email": "xardas@xardas.eu",
+            "homepage": "http://google.com"
         }
     ],
     "require": {
-        "php": ">=7.2",
+        "php": ">=8.1",
         "ext-mbstring": "*",
         "ext-zlib": "*",
         "ext-curl": "*",
